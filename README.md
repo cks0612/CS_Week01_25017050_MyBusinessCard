@@ -12,17 +12,9 @@
 
 
 
-
-
-
-
 사진, 배경 색 변경
 
 <img width="1058" height="563" alt="스크린샷 2026-03-08 195456" src="https://github.com/user-attachments/assets/bb7df25b-d2d3-433e-9c61-d705c4609a97" />
-
-
-
-
 
 
 
@@ -33,17 +25,9 @@
 
 
 
-
-
-
 마우스를 올리지 않았을떄
 
 <img width="1058" height="564" alt="스크린샷 2026-03-08 195803" src="https://github.com/user-attachments/assets/95fc6c60-a4f2-4206-93ea-62ab81d6ceda" />
-
-
-
-
-
 
 
 
